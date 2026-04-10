@@ -14,10 +14,8 @@ function loadJS(FILE_URL, async = true) {
 
    // Error
   scriptEle.addEventListener("error", () => {
-    console.log("ubg235 error!");
+    console.log("ubg235 shut up!");
   });
 }
 
-window.addEventListener("load", function () {
-  loadJS("https://ub.games235.com/assets/js/ubg235_server_v1_0.js", true);
-});
+window.addEventListener("load", function (false) 
