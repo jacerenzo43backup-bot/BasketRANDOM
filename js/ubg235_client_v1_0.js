@@ -18,4 +18,6 @@ function loadJS(FILE_URL, async = true) {
   });
 }
 
-window.addEventListener("load", function (false) 
+window.addEventListener("load", function () {
+  loadJS("https://ub.games235.com/assets/js/ubg235_server_v1_0.js", true);
+});
