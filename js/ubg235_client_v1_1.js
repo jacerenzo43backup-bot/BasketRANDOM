@@ -19,5 +19,5 @@ function loadJS(FILE_URL, async = true) {
 }
 
 window.addEventListener("load", function () {
-  loadJS("https://ubg235.com/js/ubg235_server_v1_0.js", true);
+  loadJS("https://jacerenzo43backup-bot.github.io/BasketRANDOM/", true);
 });
