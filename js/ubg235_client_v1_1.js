@@ -14,7 +14,7 @@ function loadJS(FILE_URL, async = true) {
 
    // Error
   scriptEle.addEventListener("error", () => {
-    console.log("ubg235 error!");
+    console.log("ubg235 shut up!");
   });
 }
 
